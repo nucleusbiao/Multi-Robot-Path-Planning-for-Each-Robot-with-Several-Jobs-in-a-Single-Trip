@@ -22,3 +22,8 @@ If you want to use it, please cite
   publisher={Elsevier}
   
 }
+
+<video width="320" height="320" controls>
+  <source src="assigned_jobs" type="videos/mp4">
+  Your browser does not support the video tag.
+</video>
