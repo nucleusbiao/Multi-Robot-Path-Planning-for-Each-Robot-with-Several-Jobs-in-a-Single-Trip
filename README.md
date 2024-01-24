@@ -13,6 +13,9 @@ If you want to use it, please cite
   year={2020},    
   publisher={Elsevier}    
 }
+
+
+
 Assigned Jobs(Square: Represents AGV (Automated Guided Vehicle), Pentagram: Represents assigned tasks for AGVs with corresponding colors, Numbering: Indicates the execution sequence of the tasks.)  
 ![](assigned_jobs.gif)
 
