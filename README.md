@@ -23,7 +23,5 @@ If you want to use it, please cite
   
 }
 
-<video width="360" height="360" controls>
-  <source src="https://github.com/nucleusbiao/Multi-Robot-Path-Planning-for-Each-Robot-with-Several-Jobs-in-a-Single-Trip/blob/main/videos/assigned_jobs.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/nucleusbiao/Multi-Robot-Path-Planning-for-Each-Robot-with-Several-Jobs-in-a-Single-Trip/blob/main/videos/assigned_jobs.mp4
+
