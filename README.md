@@ -14,5 +14,7 @@ If you want to use it, please cite
   publisher={Elsevier}    
 }
 
-https://github.com/nucleusbiao/Multi-Robot-Path-Planning-for-Each-Robot-with-Several-Jobs-in-a-Single-Trip/blob/main/videos/assigned_jobs.mp4
+![](assigned_jobs.gif)
+
+![](unassigned_jobs.gif)
 
